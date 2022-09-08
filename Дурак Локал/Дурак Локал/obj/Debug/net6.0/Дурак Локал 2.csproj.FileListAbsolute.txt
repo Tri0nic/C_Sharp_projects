@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\bin\Debug\net6.0\Дурак Локал 2.exe
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\bin\Debug\net6.0\Дурак Локал 2.deps.json
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\bin\Debug\net6.0\Дурак Локал 2.runtimeconfig.json
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\bin\Debug\net6.0\Дурак Локал 2.dll
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\bin\Debug\net6.0\Дурак Локал 2.pdb
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.dll
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\refint\Дурак Локал 2.dll
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.pdb
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\Дурак Локал 2.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Новая папка\Дурак Локал 2\Дурак Локал 2\obj\Debug\net6.0\ref\Дурак Локал 2.dll
